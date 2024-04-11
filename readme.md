@@ -7,4 +7,4 @@
 | 電子郵件    | C109252202@nkust.edu.tw     |
 | 選修        | 智慧城市導論          |
 <img src="https://github.com/Agroxty/C109252202/blob/main/Untitled.png" width="200" height="200">
-![鯊魚先生.](https://github.com/Agroxty/C109252202/blob/main/sticker.png)
+![鯊魚先生.](https://stickershop.line-scdn.net/stickershop/v1/sticker/408946734/android/sticker.png)
