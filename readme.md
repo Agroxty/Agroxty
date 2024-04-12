@@ -7,7 +7,7 @@
 | 電子郵件    | C109252202@nkust.edu.tw     |
 | 選修        | 智慧城市導論          |
 
-<img src="https://github.com/Agroxty/C109252202/blob/main/Untitled.png" width="200" height="200">
+<img src="https://github.com/Agroxty/C109252202/blob/main/QT5V6IE5A6.png" width="200" height="200">
 
 ## 關於蘇丹紅事件整理
 <a href="https://www.youtube.com/watch?v=ZdKCoW1I65s&pp=ygUP6JiH5Li557SF5LqL5Lu2" target="_blank"><img src="https://applealmondhome.com/wp-content/uploads/2024/03/1709613144-d0ecf339de58bf254a86684ba0db2547.jpg"
