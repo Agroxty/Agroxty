@@ -9,6 +9,25 @@
 
 <img src="https://github.com/Agroxty/C109252202/blob/main/Untitled.png" width="200" height="200">
 
-
-<a href="https://www.youtube.com/watch?v=AT7xgxhWXpc" target="_blank"><img src="https://www.owlsome.tech/wp-content/uploads/2024/03/%E6%88%AA%E5%9C%96-2024-03-18-23.19.48-600x403.png"
+## 關於蘇丹紅事件整理
+<a href="https://www.youtube.com/watch?v=ZdKCoW1I65s&pp=ygUP6JiH5Li557SF5LqL5Lu2" target="_blank"><img src="https://applealmondhome.com/wp-content/uploads/2024/03/1709613144-d0ecf339de58bf254a86684ba0db2547.jpg"
 alt="智慧城市展" width="400" height="250" border="10" /></a>
+
+## ChatGPT應用範例
+- ### 請介紹關於食物中毒會造成的影響
+>食物中毒對人體健康會造成嚴重的影響。食物中毒通常是由於食物受到細菌、病毒、寄生蟲或毒素的污染而引起的。當人們攝入受污染的食物後，這些病原體或毒素可能會引發各種症狀，包括：
+
+>1.腹痛和腹部不適：這是最常見的症狀之一，通常伴隨著胃部不適和腹部疼痛。
+
+>2.噁心和嘔吐：攝入受污染的食物後，人們可能會感到噁心並出現嘔吐的情況。
+
+>3.腹瀉：食物中毒可能會導致腹瀉，表現為頻繁的腹部排便和腹部不適。
+
+>4.發燒和全身不適：某些食物中毒可能會導致發燒和全身不適，這是身體對感染或毒素的反應。
+
+>5.感染和健康風險：食物中毒不僅會對個人造成健康問題，還可能對公共健康造成風險，特別是在大規模食物中毒事件中。
+
+>總的來說，食物中毒可能導致嚴重的健康問題，包括脫水、電解質失衡、器官損傷甚至死亡。因此，預防食物中毒至關重要，包括妥善處理和烹調食物、保持個人衛生、選擇新鮮且質量可靠的食材等。
+
+
+- ### 如果不小心遭遇到了該怎麼辦
