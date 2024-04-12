@@ -8,3 +8,4 @@
 | 選修        | 智慧城市導論          |
 <img src="https://github.com/Agroxty/C109252202/blob/main/Untitled.png" width="200" height="200">
 
+<a href="https://www.youtube.com/watch?v=AT7xgxhWXpc" target="_blank"><img src=""alt="智慧城市展" width="400" height="250" border="10" /></a>
