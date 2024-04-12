@@ -10,5 +10,5 @@
 <img src="https://github.com/Agroxty/C109252202/blob/main/Untitled.png" width="200" height="200">
 
 
-<a href="alt="https://www.youtube.com/watch?v=AT7xgxhWXpc" target="_blank"><img src="https://www.owlsome.tech/wp-content/uploads/2024/03/%E6%88%AA%E5%9C%96-2024-03-18-23.19.48-600x403.png"
+<a href="https://www.youtube.com/watch?v=AT7xgxhWXpc" target="_blank"><img src="https://www.owlsome.tech/wp-content/uploads/2024/03/%E6%88%AA%E5%9C%96-2024-03-18-23.19.48-600x403.png"
 alt="智慧城市展" width="400" height="250" border="10" /></a>
