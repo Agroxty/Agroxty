@@ -47,4 +47,4 @@ alt="智慧城市展" width="400" height="250" border="10" /></a>
 
 
 <a href="https://www.youtube.com/watch?v=FmdRDOcdUrc&list=PPSV" target="_blank"><img src="https://raw.githubusercontent.com/mapleasun/-/main/%E6%93%B7%E5%8F%96.PNG"
-alt="智慧城市展" width="800" height="450" border="10" /></a>
+ width="800" height="450" border="10" /></a>
