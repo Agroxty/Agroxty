@@ -44,3 +44,6 @@ alt="智慧城市展" width="400" height="250" border="10" /></a>
 >5.與當地衛生機構聯繫：如果懷疑食物中毒與某個餐廳、食品供應商或其他機構有關，應立即與當地衛生機構聯繫，以便他們進行調查並採取必要的措施以防止類似事件再次發生。
 
 >總之，當遭遇食物中毒時，重要的是保持冷靜，採取適當的措施以確保自己和其他人的健康安全。
+
+<a href="https://www.youtube.com/watch?v=FmdRDOcdUrc&list=PPSV" target="_blank"><img src="https://raw.githubusercontent.com/mapleasun/-/main/%E6%93%B7%E5%8F%96.PNG"
+alt="5G沉浸式光影交響首部曲" width="400" height="250" border="10" /></a>
